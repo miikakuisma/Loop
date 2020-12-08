@@ -57,6 +57,8 @@ This will create new branch called "different-bassline". Please note that you ca
 
 When you want to go any existing branch just use checkout command.
 
+*Important* Allways close the project file before switching branch. Reopen it after the following command.
+
 ```git checkout yesterday-jamming```
 
 PS. Master branch is usually the one that's considered to be the main branch
