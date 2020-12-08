@@ -2,6 +2,10 @@
 
 It works. Here is how.
 
+## Disclaimer
+
+Use at your own risk. Git isn't exactly built to be used with Logic Pro X.
+
 ## GUIDE
 
 ### Install Git
